@@ -1,11 +1,5 @@
-# CS465_OchoaE_SearcyJ_SajuB
+# Little Log Cabin: Hand Gesture Accuracy In a Open World Enviornment
+By Evelynn Ochoa, jonathan Searcy, Binil Saju
 
-## Check-Point One 
-
-### Project Introduction: 
-
-### Related Work: ###
-
-### Methodology: ###
-
-### Video Of Current Status: ###
+### Project Description
+Summary Of Our Project
