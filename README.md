@@ -1,3 +1,11 @@
 # CS465_OchoaE_SearcyJ_SajuB
 
-## Project description: ##
+## Check-Point One 
+
+### Project Introduction: 
+
+### Related Work: ###
+
+### Methodology: ###
+
+### Video Of Current Status: ###
